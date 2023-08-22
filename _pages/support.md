@@ -1,10 +1,10 @@
 ---
 layout: page
-title: テクニカルサポート
+title: Contact Us
 include_in_header: true
 ---
 
-## メールで連絡してください：
+## Contact us by email：
 [{{site.email_address}}](mailto:{{site.email_address}}?subject=Contact US)
 
 <!-- ## 或者通过添加微信:
